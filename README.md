@@ -29,4 +29,16 @@ In this activity, you’ll work in groups to review `README.md` files for two Gi
 
     * Is it clear who the intended audience is?
 
-    * Does the `README.md` 
+    * Does the `README.md` provide enough information?
+
+    * Does it provide too much information?
+</p>
+
+## Example Python Code
+
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+if __name__ == "__main__":
+    greet("World")
